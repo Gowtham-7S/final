@@ -63,22 +63,27 @@
 
 #menu{
   font-size: x-large;
+  cursor: pointer;
   text-shadow: 0px 0px 12px orangered;
 }
 #messanger{
   font-size: x-large;
+   cursor: pointer;
   text-shadow: 0px 0px 12px orangered;
 }
 #instagram{
   font-size: x-large;
+   cursor: pointer;
   text-shadow: 0px 0px 12px orangered;
 }
 #whatsapp{
   font-size: x-large;
+   cursor: pointer;
   text-shadow: 0px 0px 12px orangered;
 }
 #telegram{
   font-size: x-large;
+  cursor: pointer;
   text-shadow: 0px 0px 12px orangered;
 }
 
